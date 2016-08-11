@@ -1,0 +1,6 @@
+C:\Users\patrick.costa\Downloads\Thais_Patrick_2003_08dejulho\Thais_Patrick_2003_08dejulho\bin\Debug\Thais_Patrick_2003_08dejulho.exe.config
+C:\Users\patrick.costa\Downloads\Thais_Patrick_2003_08dejulho\Thais_Patrick_2003_08dejulho\obj\Debug\Thais_Patrick_2003_08dejulho.csprojResolveAssemblyReference.cache
+C:\Users\patrick.costa\Downloads\Thais_Patrick_2003_08dejulho\Thais_Patrick_2003_08dejulho\bin\Debug\Thais_Patrick_2003_08dejulho.exe
+C:\Users\patrick.costa\Downloads\Thais_Patrick_2003_08dejulho\Thais_Patrick_2003_08dejulho\bin\Debug\Thais_Patrick_2003_08dejulho.pdb
+C:\Users\patrick.costa\Downloads\Thais_Patrick_2003_08dejulho\Thais_Patrick_2003_08dejulho\obj\Debug\Thais_Patrick_2003_08dejulho.exe
+C:\Users\patrick.costa\Downloads\Thais_Patrick_2003_08dejulho\Thais_Patrick_2003_08dejulho\obj\Debug\Thais_Patrick_2003_08dejulho.pdb
